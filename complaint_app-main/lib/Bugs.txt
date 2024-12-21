@@ -1,0 +1,11 @@
+wireless connection: adb devices
+                     adb tcpip 5555 - to restart port
+                     adb connect mobile_IP
+
+Login and Regi screen overflow - fixed- (used SingleChildScrollView widget)
+node wrong cred login crash bug - fixed 
+multiple home screen when login twice - fixed
+succesfull report submit on tap OKAY (nav to my report) -fixed
+
+
+
